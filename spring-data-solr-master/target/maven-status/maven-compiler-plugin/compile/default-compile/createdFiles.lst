@@ -1,0 +1,4 @@
+com\siva\spring\solar\api\controller\EmployeeController.class
+com\siva\spring\solar\api\repository\EmployeeRepository.class
+com\siva\spring\solar\api\model\Employee.class
+com\siva\spring\solar\api\SpringDataSolarApplication.class
